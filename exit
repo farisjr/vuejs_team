@@ -1,0 +1,23 @@
+[33mcommit 3b0d87efe0e807a13a5938911ed590fc43e93482[m[33m ([m[1;36mHEAD -> [m[1;32mfeatures_controller_database[m[33m, [m[1;31morigin/features_controller_database[m[33m)[m
+Author: FawwazAF <fawwazaf123@gmail.com>
+Date:   Thu Jul 22 18:34:39 2021 +0700
+
+    adding feature database
+
+[33mcommit 6a086db15a874d741419778235bffa5973b74be6[m
+Author: FawwazAF <fawwazaf123@gmail.com>
+Date:   Thu Jul 22 18:32:14 2021 +0700
+
+    adding feature controller
+
+[33mcommit 7d7fd45966e6d3fa9f7ee13d273e48f8270f221c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/develop[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: FarisJR <farisjramadhan@gmail.com>
+Date:   Thu Jul 22 18:09:51 2021 +0700
+
+    add skeleton
+
+[33mcommit cd9bf634a4b9e6f1a6e4dbc7701aad6288b6698b[m
+Author: FarisJR <farisjramadhan@gmail.com>
+Date:   Thu Jul 22 17:57:26 2021 +0700
+
+    initial commit
